@@ -1,0 +1,18 @@
+{
+  "name": "javascript-for-the-webflow-enthusiast-00",
+  "version": "1.0.0",
+  "description": "Get started with Javascript",
+  "scripts": {
+    "start": "npm install"
+  },
+  "keywords": [],
+  "author": "Web Bae",
+  "license": "ISC",
+  "devDependencies": {
+    "jasmine": "^5.1.0",
+    "jasmine-core": "^5.1.1",
+    "karma": "^6.4.2",
+    "karma-chrome-launcher": "^3.2.0",
+    "karma-jasmine": "^5.1.0"
+  }
+}
